@@ -7,14 +7,15 @@ Pillar: Everyday science
 Format: 9:16, 1080x1920, target 45–60 seconds
 
 ## Production status
-- Topic selection, research notes, script, scene plan, visual prompts, metadata and licence manifest: complete.
-- Original PNG artwork, thumbnail, procedural SFX and 54-second visual-only preview: included in the downloadable production ZIP, not committed as binaries through this text-file GitHub connector.
-- Kokoro narration: pending; Kokoro was not installed in the current runtime and network access was unavailable.
-- Whisper final captions: pending actual narration.
+- Research, topic scorecard, final script, scene plan, visual prompts, publishing metadata and rights manifest: complete.
+- Script: 121 words; vidIQ estimates 48.4 seconds at 150 words/minute. This is a pace estimate, not a timed recording.
+- Original PNG artwork, thumbnail, procedural SFX and a 48.4-second visual-only preview: included in the production ZIP. Binary assets are not committed through this text-file GitHub connector.
+- Kokoro narration: pending; Kokoro was not installed and network access was unavailable in the runtime.
+- Whisper final captions: pending actual narration. The committed SRT is provisional.
 - Final narrated MP4: not rendered.
 - Publishing: not attempted. Keep private until explicit approval.
 
-## Files
+## Episode files
 - script/spoken_script.txt
 - research/topic_research.md
 - research/topic_opportunities.md
@@ -24,9 +25,10 @@ Format: 9:16, 1080x1920, target 45–60 seconds
 - captions/captions_estimated.srt
 - audio/generate_kokoro.py
 - audio/README.md
+- audio/Kokoro_Colab_Quickstart.ipynb
 - publishing/youtube_metadata.md
 - licensing/asset_manifest.csv
 - config/project.json
 - visuals/thin_film_interference.svg
 
-The complete ZIP contains all binary visuals, sound effects, storyboard, thumbnail and preview.
+The complete ZIP contains the PNG scenes, thumbnail, storyboard, SFX WAVs and visual-only MP4 preview.
