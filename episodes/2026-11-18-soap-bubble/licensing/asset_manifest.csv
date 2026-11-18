@@ -1,0 +1,18 @@
+asset,type,source,creator_provider,licence_rights,status
+scene_01_hook.png,original code-generated illustration,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP and preview
+scene_02_two_reflections.png,original code-generated illustration,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP and preview
+scene_03_phase.png,original code-generated illustration,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP and preview
+scene_04_add_cancel.png,original code-generated illustration,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP and preview
+scene_05_thickness.png,original code-generated illustration,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP and preview
+scene_06_dark_patch.png,original code-generated illustration,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP and preview
+scene_07_payoff.png,original code-generated illustration,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP and preview
+thumbnail_1280x720.png,original code-generated thumbnail,Created in package,Kavi_ihab production package,Original artwork,Included in ZIP
+soft_bubble_pop.wav,procedural SFX,Synthesized in package,Kavi_ihab production package,Original generated sound,Included in ZIP
+soft_shimmer.wav,procedural SFX,Synthesized in package,Kavi_ihab production package,Original generated sound,Included in ZIP
+low_reveal_hit.wav,procedural SFX,Synthesized in package,Kavi_ihab production package,Original generated sound,Included in ZIP
+Sarma and Chattopadhyay 2001,research citation,https://doi.org/10.1021/la010594z,Authors / ACS Langmuir,Cited only; no figures or text copied,Source only
+OpenStax University Physics,fact-check reference,https://openstax.org/books/university-physics-volume-3/pages/3-4-interference-in-thin-films,OpenStax,CC BY-NC-SA; no text or images reused in commercial assets,Reference only
+UNSW Physics page,fact-check reference,https://www.animations.physics.unsw.edu.au/jw/light/thin-film-interference-and-reflections.html,UNSW,No text or images reused,Reference only
+Kokoro-82M,TTS model,https://huggingface.co/hexgrad/Kokoro-82M,hexgrad,Apache-2.0 model card; inspect voice pack terms,Planned only
+Whisper,ASR tool,https://github.com/openai/whisper,OpenAI,MIT code licence,Planned only
+FFmpeg,video tool,https://ffmpeg.org/,FFmpeg project,Build licence depends on configuration,Used for visual preview
