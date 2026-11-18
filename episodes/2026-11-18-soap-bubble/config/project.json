@@ -1,0 +1,20 @@
+{
+  "channel_name": "Kavi_ihab",
+  "handle": "@kavi_ihab",
+  "channel_id": "UCtjFfPxL9_NQ29vHf3YsrAQ",
+  "episode": "Why do soap bubbles show shifting rainbow colours?",
+  "prepared_date": "2026-11-18",
+  "pillar": "everyday_science",
+  "language": "English",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "script_words_vidiq": 135,
+  "estimated_duration_seconds_at_150_wpm": 54,
+  "auto_publish": false,
+  "zero_cost_only": true,
+  "voice_model": "Kokoro-82M",
+  "voice_candidate": "am_michael",
+  "voice_status": "not_generated_kokoro_not_installed_network_unavailable",
+  "visual_preview_status": "rendered_and_verified_no_narration",
+  "final_mp4_status": "pending_voice_and_final_captions"
+}
