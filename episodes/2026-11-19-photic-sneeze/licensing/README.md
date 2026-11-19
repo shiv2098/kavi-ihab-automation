@@ -1,0 +1,1 @@
+No paid generators, paid APIs, third-party stock, photos or audio samples were used. All graphics and SFX are original. Research sources are cited for fact-checking only; no source figures/text copied. Check Kokoro voice-pack terms before commercial use. If footage is added, log URL, creator, date and licence.
