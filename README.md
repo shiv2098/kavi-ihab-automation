@@ -2,10 +2,12 @@
 
 Zero-cost, review-first science Shorts production workspace for Kavi_ihab.
 
-## Latest episode
+## Latest episodes
+- [20 Nov 2026 — How Do Bats Avoid Crashing in a Crowded Cave?](episodes/2026-11-20-bat-echolocation/README.md)
+- [19 Nov 2026 — Why Does Sunlight Make Some People Sneeze?](episodes/2026-11-19-photic-sneeze/README.md)
 - [18 Nov 2026 — Why Do Soap Bubbles Show Rainbows?](episodes/2026-11-18-soap-bubble/README.md)
-- Script, research, scene plan, captions draft, Kokoro setup, metadata and licence manifest are stored in the episode folder.
-- Binary PNG artwork, SFX and visual-only preview are in the downloadable production ZIP, because this connector writes UTF-8 text files only.
+
+Episode folders contain scripts, research, scene plans, caption drafts, local-production instructions, metadata and licence manifests. Binary artwork, SFX and visual-only previews are supplied in each downloadable production ZIP because this repository connector writes UTF-8 text files only.
 
 ## Production policy
 - No paid credits, paid APIs, billing activation or paid trials.
