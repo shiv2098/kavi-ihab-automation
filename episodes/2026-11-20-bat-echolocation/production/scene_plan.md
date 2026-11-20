@@ -1,0 +1,11 @@
+# Timestamped scene plan
+
+| Time | Beat | Narration | On-screen text | Visual / sound |
+|---|---|---|---|---|
+| 00:00–00:06 | Hook | How do bats avoid crashing when thousands pour out of one cave? | THOUSANDS. ONE EXIT. | Wide cave mouth at dusk; a dense stream of bat silhouettes emerges, camera pushes toward the bottleneck. Low cave rumble and rising air sweep. |
+| 00:06–00:13 | Echolocation | They use echolocation: short ultrasonic calls bounce off walls and nearby bodies, then return as echoes. | CALL → ECHO → LOCATION | Bat emits expanding sound arcs; reflections return from a cave wall and nearby bat. Soft ultrasonic-chirp motif; do not imply ultrasound is visibly light. |
+| 00:13–00:20 | Acoustic masking | But in a crowded exit, other bats' calls can mask those echoes. | ACOUSTIC MASKING | Layer several wave trains over the focal bat's returning echo. Layered clicks become briefly dense. |
+| 00:20–00:28 | Field evidence | In a 2025 study, researchers tracked greater mouse-tailed bats and recorded sound from microphones mounted on some animals. | TRACKERS + ONBOARD MICS | Bat silhouette with tiny research tag/microphone icon; map pin for Hula Valley, Israel. Quiet data beeps. |
+| 00:28–00:36 | Observed response | They found intense acoustic masking during emergence; it dropped within seconds as the bats spread out. The bats also shifted to shorter, weaker, higher-frequency calls. | SPREAD OUT · CHANGE THE CALL | Cave-exit cloud fans wider; waveform becomes shorter and weaker with higher frequency spacing. Clicks become more separated and lighter. |
+| 00:36–00:45 | Modelled mechanism | A 2026 computer model suggests another tool: combine information from several calls, follow walls, and steer through gaps while avoiding nearby bats. | MULTI-CALL INTEGRATION · LOCAL RULES | Five echo traces feed a short-term memory panel; simple path follows wall then passes through a gap. Label MODEL. Five quiet ticks merge. |
+| 00:45–00:52 | Payoff / caveat | That model tests a possible strategy—it does not prove every bat uses exactly those steps. Their trick is to keep sensing, adjust, and move. | PLAUSIBLE STRATEGY — NOT PERFECT SONAR | Bats fly through cave exit with spaced silhouettes and echo arcs. Soft reveal then silence. |
