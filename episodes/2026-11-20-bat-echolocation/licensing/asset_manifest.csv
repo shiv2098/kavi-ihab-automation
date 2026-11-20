@@ -1,0 +1,17 @@
+asset,type,source / creator,licence / rights,status
+scene_01_hook.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+scene_02_echolocation.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+scene_03_masking.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+scene_04_study.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+scene_05_spread.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+scene_06_model.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+scene_07_payoff.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+thumbnail_1280x720.png,original code-generated artwork,Created in package,Original illustration; no third-party image assets,Included in ZIP
+cave_swell.wav,procedural sound effect,Synthesized in package,Original oscillator/noise; no third-party samples,Included in ZIP
+echo_ticks.wav,procedural sound effect,Synthesized in package,Original oscillator/noise; no third-party samples,Included in ZIP
+soft_reveal.wav,procedural sound effect,Synthesized in package,Original oscillator/noise; no third-party samples,Included in ZIP
+Goldshtein et al. 2025,research reference,https://doi.org/10.1073/pnas.2407810122,PNAS article CC BY 4.0; cited for facts only,Reference
+Mazar & Yovel 2026,research reference,https://doi.org/10.7554/eLife.105571,eLife CC BY; cited for facts only,Reference
+Kokoro-82M,planned TTS,https://huggingface.co/hexgrad/Kokoro-82M,Model card lists Apache-2.0; check voice pack terms,Not installed
+Whisper,planned ASR,https://github.com/openai/whisper,MIT code licence,Not installed
+FFmpeg,render tool,https://ffmpeg.org/,Build licence depends on configuration,Used for visual preview
