@@ -1,0 +1,18 @@
+asset,type,source/creator,licence/rights,status
+scene_01_hook.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+scene_02_kernel.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+scene_03_pressure.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+scene_04_rupture.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+scene_05_leg.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+scene_06_sound.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+scene_07_payoff.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+thumbnail_1280x720.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+storyboard_contact_sheet.png,original code-generated artwork,Created in this package,Original illustration; no third-party images,Included
+heat_rise.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included
+vapour_pop.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included
+starch_spring.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included
+Virot & Ponomarenko 2015,research reference,https://doi.org/10.1098/rsif.2014.1247,Open-access article cited for facts only; no figures copied,Reference only
+Purdue Food Science 2020,research reference,https://ag.purdue.edu/news/2020/02/whats-under-the-shell-of-this-popular-snack.html,University article cited for facts only; no images copied,Reference only
+Kokoro-82M,planned TTS model,https://huggingface.co/hexgrad/Kokoro-82M,Model card lists Apache-2.0 weights; preserve notices and verify voice-pack terms,Not installed
+Whisper,planned ASR tool,https://github.com/openai/whisper,MIT code licence; local inference planned,Not installed
+FFmpeg,video tool,https://ffmpeg.org/,Build licence depends on configuration,Used for visual-only preview
