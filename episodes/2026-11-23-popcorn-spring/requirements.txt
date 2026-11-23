@@ -1,0 +1,6 @@
+# Optional local-only dependencies
+kokoro>=0.9.4
+soundfile
+numpy
+# Optional captions: openai-whisper
+# FFmpeg is installed separately: https://ffmpeg.org/
