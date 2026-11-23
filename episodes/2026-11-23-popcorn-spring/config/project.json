@@ -1,0 +1,23 @@
+{
+  "channel_name": "Kavi_ihab",
+  "handle": "@kavi_ihab",
+  "channel_id": "UCtjFfPxL9_NQ29vHf3YsrAQ",
+  "prepared_date": "2026-11-23",
+  "episode": "The Tiny Spring That Makes Popcorn Jump",
+  "pillar": "everyday_science",
+  "language": "English",
+  "format": "YouTube Shorts",
+  "aspect_ratio": "9:16",
+  "resolution": "1080x1920",
+  "fps": 30,
+  "spoken_word_count": 126,
+  "estimated_duration_seconds_at_150_wpm": 50.4,
+  "zero_cost_only": true,
+  "auto_publish": false,
+  "vidiq_guidance": "completed_0_credits",
+  "vidiq_length_check": "completed_0_credits",
+  "paid_vidiq_discovery": "not_used",
+  "tts_status": "not_generated_kokoro_not_installed",
+  "visual_preview_status": "rendered_no_narration",
+  "final_mp4_status": "not_rendered_waiting_for_narration_and_final_captions"
+}
