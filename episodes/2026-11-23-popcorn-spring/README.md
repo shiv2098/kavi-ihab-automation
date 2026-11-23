@@ -4,7 +4,7 @@ Prepared 23 November 2026. Channel: Kavi_ihab (@kavi_ihab), ID UCtjFfPxL9_NQ29vH
 
 Episode: The Tiny Spring That Makes Popcorn Jump.
 Format: 9:16, 1080×1920, 30 fps, 45–60 seconds.
-Spoken script: 126 words; vidIQ zero-credit length check estimates 50.4 seconds at 150 WPM.
+Spoken script: 127 words; vidIQ zero-credit length check estimates 50.8 seconds at 150 WPM.
 
 ## Included
 - Script and voice direction
@@ -17,9 +17,10 @@ Spoken script: 126 words; vidIQ zero-credit length check estimates 50.4 seconds 
 Binary artwork, thumbnail, procedural SFX and the visual-only MP4 preview are in the downloadable production ZIP because the GitHub connector writes UTF-8 text files only.
 
 ## Status
-- vidIQ zero-credit script guidance and length check: completed.
+- vidIQ zero-credit script guidance and word-length check: completed.
 - Public web research and topic opportunity scan: completed; no current exact-topic VPH or keyword volume claimed.
-- Seven original scene graphics, thumbnail, SFX and visual-only preview: created locally.
+- Seven original scene graphics, thumbnail and three procedural SFX: created locally.
+- Visual-only MP4 preview: rendered and verified at 50.0 seconds, 1080×1920, 30 fps; no narration or final captions.
 - Kokoro narration: pending; Kokoro is not installed in the available runtime.
 - Final Whisper captions and narrated MP4: pending narration.
 - No upload, scheduling or publishing action taken.
