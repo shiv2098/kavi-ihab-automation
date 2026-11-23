@@ -3,6 +3,7 @@
 Zero-cost, review-first science Shorts production workspace for Kavi_ihab.
 
 ## Latest episodes
+- [23 Nov 2026 — The Tiny Spring That Makes Popcorn Jump](episodes/2026-11-23-popcorn-spring/README.md)
 - [20 Nov 2026 — How Do Bats Avoid Crashing in a Crowded Cave?](episodes/2026-11-20-bat-echolocation/README.md)
 - [19 Nov 2026 — Why Does Sunlight Make Some People Sneeze?](episodes/2026-11-19-photic-sneeze/README.md)
 - [18 Nov 2026 — Why Do Soap Bubbles Show Rainbows?](episodes/2026-11-18-soap-bubble/README.md)
