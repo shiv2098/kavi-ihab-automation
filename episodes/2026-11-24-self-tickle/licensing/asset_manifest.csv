@@ -1,0 +1,18 @@
+asset,type,source / creator,licence / rights,status
+scene_01_hook.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_02_prediction.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_03_cerebellum.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_04_attenuation.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_05_evidence.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_06_external.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_07_payoff.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+thumbnail_1280x720.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+prediction_pulse.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included in ZIP
+soft_touch.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included in ZIP
+reveal_swell.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included in ZIP
+Blakemore et al. 1998,research reference,https://doi.org/10.1038/2870,Research cited for facts; no figures copied,Reference only
+Kilteni & Ehrsson 2020,research reference,https://pmc.ncbi.nlm.nih.gov/articles/PMC6975290/,Open access CC BY 4.0; no figures copied,Reference only
+Knoetsch & Zimmermann 2021,research reference,https://pmc.ncbi.nlm.nih.gov/articles/PMC8193814/,Open access CC BY 4.0; no figures copied,Reference only
+Kokoro-82M,planned TTS model,https://huggingface.co/hexgrad/Kokoro-82M,Model card lists Apache-2.0 weights; check voice-pack terms,Not installed
+Whisper,planned ASR tool,https://github.com/openai/whisper,MIT code licence,Not installed
+FFmpeg,video tool,https://ffmpeg.org/,Build licence depends on configuration,Used for visual preview
