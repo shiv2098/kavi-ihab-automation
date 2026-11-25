@@ -1,0 +1,17 @@
+asset,type,source / creator,licence / rights,status
+scene_01_hook.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_02_structure.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_03_detour.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_04_migration.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_05_local_rule.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_06_tradeoff.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+scene_07_payoff.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+thumbnail_1280x720.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+storyboard_contact_sheet.png,original code-generated artwork,Created in this package,Original illustration; no third-party image assets,Included in ZIP
+forest_pulse.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included in ZIP
+ant_traffic_ticks.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included in ZIP
+tradeoff_swell.wav,procedural sound effect,Synthesized in this package,Original oscillator/noise; no third-party samples,Included in ZIP
+Reid et al. 2015,research reference,https://doi.org/10.1073/pnas.1512241112,PNAS paper cited for facts; no figures or media copied,Reference only
+Kokoro-82M,planned TTS model,https://huggingface.co/hexgrad/Kokoro-82M,Model card lists Apache-2.0 weights; preserve notices and check voice-pack terms,Not installed
+Whisper,planned ASR tool,https://github.com/openai/whisper,MIT code licence; local inference planned,Not installed
+FFmpeg,video tool,https://ffmpeg.org/,Build licence depends on configuration,Used for visual preview
