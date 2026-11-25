@@ -1,0 +1,58 @@
+1
+00:00:00,000 --> 00:00:04,400
+How can a bridge move while hundreds
+of ants are walking over it?
+
+2
+00:00:04,400 --> 00:00:09,200
+Some army ants build living roadways
+by linking their bodies across gaps
+
+3
+00:00:09,200 --> 00:00:12,800
+in the forest floor. Their nestmates
+stream over the structure
+
+4
+00:00:12,800 --> 00:00:17,200
+instead of following a longer detour.
+But the bridge keeps changing.
+
+5
+00:00:17,200 --> 00:00:22,800
+In field experiments with Eciton hamatum,
+researchers watched bridges lengthen,
+
+6
+00:00:22,800 --> 00:00:26,000
+widen and shift toward the main trail.
+The movement increased
+
+7
+00:00:26,000 --> 00:00:30,800
+when traffic was heavier. The likely
+mechanism is local: workers in busier
+
+8
+00:00:30,800 --> 00:00:35,600
+sections are more likely to be joined
+by passing ants, while less-contacted
+
+9
+00:00:35,600 --> 00:00:40,400
+workers are more likely to leave.
+No ant needs to know the whole route.
+
+10
+00:00:40,400 --> 00:00:44,800
+The shortcut saves travel, but every ant
+holding the bridge is temporarily
+
+11
+00:00:44,800 --> 00:00:50,400
+unavailable for foraging. So the structure
+settles where the colony's traffic benefit
+
+12
+00:00:50,400 --> 00:00:54,400
+is balanced against the workers it ties up.
