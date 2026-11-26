@@ -1,0 +1,10 @@
+# Scene plan — 53 seconds
+00:00–00:06.5 — Hook: “How can a dolphin sleep without missing its next breath?” Text: HOW CAN A DOLPHIN SLEEP WITHOUT MISSING A BREATH? Visual: dolphin under a luminous surface; exhalation only at surface.
+00:06.5–00:13 — “Dolphins are voluntary breathers: each breath requires a controlled trip to the surface.” Text: VOLUNTARY BREATHERS / SURFACE FOR AIR. Visual: dolphin ascends; amber arrow points to waterline.
+00:13–00:21 — “So they use a pattern called unihemispheric slow-wave sleep.” Text: ONE HEMISPHERE RESTS AT A TIME. Visual: simplified two-hemisphere diagram, amber sleep / cyan relatively awake; not to scale.
+00:21–00:29 — “Brain recordings show one hemisphere entering slow-wave sleep while the other remains relatively awake. Often, the eye opposite the sleeping hemisphere closes, while the other stays open.” Text: OPPOSITE EYE OFTEN CLOSED / OTHER EYE OFTEN OPEN. Visual: dolphin side profile and eye-state callouts; use “often”, never “always”.
+00:29–00:37 — “That awake side can help the dolphin keep moving, monitor its surroundings and coordinate surfacing for air.” Text: MOVE · MONITOR · SURFACE. Visual: glide and upward surfacing arrow.
+00:37–00:44 — “The two sides can take turns resting. But the eye pattern is not a perfect sleep detector: researchers have recorded brief mismatches between eye position and brain activity.” Text: SIDES CAN SWITCH / EYE POSITION ≠ EXACT BRAIN STATE. Visual: reversed brain-state diagrams and schematic EEG, not recorded data.
+00:44–00:53 — “So a dolphin is not simply switching half its brain off. It is dividing sleep and wakefulness across the brain—resting while remaining able to surface and breathe.” Text: REST WHILE STAYING ABLE TO SURFACE AND BREATHE. Visual: two sequential brain diagrams then dolphin at surface.
+
+Actual cuts must be adjusted to the final narration waveform.
