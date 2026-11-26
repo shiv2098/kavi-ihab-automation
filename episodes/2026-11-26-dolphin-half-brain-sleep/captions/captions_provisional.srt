@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:02,050
+How can a dolphin sleep
+
+2
+00:00:02,050 --> 00:00:04,500
+without missing its next breath?
+
+3
+00:00:04,500 --> 00:00:06,100
+Dolphins are voluntary breathers:
+
+4
+00:00:06,100 --> 00:00:09,700
+each breath requires a controlled trip to the surface.
+
+5
+00:00:09,700 --> 00:00:13,300
+So they use a pattern called unihemispheric slow-wave sleep.
+
+6
+00:00:13,300 --> 00:00:16,900
+Brain recordings show one hemisphere entering slow-wave sleep
+
+7
+00:00:16,900 --> 00:00:19,300
+while the other remains relatively awake.
+
+8
+00:00:19,300 --> 00:00:22,500
+Often, the eye opposite the sleeping hemisphere closes,
+
+9
+00:00:22,500 --> 00:00:24,500
+while the other stays open.
+
+10
+00:00:24,500 --> 00:00:28,100
+That awake side can help the dolphin keep moving,
+
+11
+00:00:28,100 --> 00:00:31,300
+monitor its surroundings and coordinate surfacing for air.
+
+12
+00:00:31,300 --> 00:00:34,100
+The two sides can take turns resting.
+
+13
+00:00:34,100 --> 00:00:38,100
+But the eye pattern is not a perfect sleep detector:
+
+14
+00:00:38,100 --> 00:00:42,500
+researchers have recorded brief mismatches between eye position and brain activity.
+
+15
+00:00:42,500 --> 00:00:46,900
+So a dolphin is not simply switching half its brain off.
+
+16
+00:00:46,900 --> 00:00:50,500
+It is dividing sleep and wakefulness across the brain—
+
+17
+00:00:50,500 --> 00:00:53,000
+resting while remaining able to surface and breathe.
