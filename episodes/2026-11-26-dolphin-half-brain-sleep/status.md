@@ -1,0 +1,11 @@
+# Status
+- Recent-topic avoidance: completed; previous eight episode topics reviewed.
+- vidIQ free idea helper: attempted; returned no topic data. No paid keyword/outlier/trending calls.
+- Public trend scan and research: completed; no dolphin-specific demand metric claimed.
+- Script, seven original scene graphics, two thumbnails, storyboard, original SFX: completed.
+- Visual-only MP4: rendered and verified at 1080×1920, 30 fps, 53.0 seconds; no narration.
+- Kokoro narration: needs a genuinely free runtime; notebook and script supplied.
+- Whisper captions: needs narration; provisional SRT supplied.
+- Final narrated MP4: pending narration and final captions.
+- YouTube upload: not attempted. No publishing, scheduling or existing-video changes.
+- No paid credits, billing activation, paid API or subscriptions used.
