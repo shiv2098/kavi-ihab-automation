@@ -1,0 +1,6 @@
+# Final English narration
+How can a dolphin sleep without missing its next breath? Dolphins are voluntary breathers: each breath requires a controlled trip to the surface. So they use a pattern called unihemispheric slow-wave sleep. Brain recordings show one hemisphere entering slow-wave sleep while the other remains relatively awake. Often, the eye opposite the sleeping hemisphere closes, while the other stays open. That awake side can help the dolphin keep moving, monitor its surroundings and coordinate surfacing for air. The two sides can take turns resting. But the eye pattern is not a perfect sleep detector: researchers have recorded brief mismatches between eye position and brain activity. So a dolphin is not simply switching half its brain off. It is dividing sleep and wakefulness across the brain—resting while remaining able to surface and breathe.
+
+131 words; estimated 52.4 seconds at 150 WPM. Actual TTS duration must be measured.
+
+Voice direction: mature male English documentary delivery, calm and precise; preferred local Kokoro preset am_onyx, compare am_michael if desired.
