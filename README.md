@@ -3,6 +3,8 @@
 Zero-cost, review-first science Shorts production workspace for Kavi_ihab.
 
 ## Latest episodes
+- [27 Nov 2026 — Why Do Fish Make a Wave When Birds Attack?](episodes/2026-11-27-fish-wave-defense/README.md)
+- [26 Nov 2026 — How Dolphins Sleep Without Missing a Breath](episodes/2026-11-26-dolphin-half-brain-sleep/README.md)
 - [25 Nov 2026 — How Can a Bridge Made of Ants Move?](episodes/2026-11-25-army-ant-bridges/README.md)
 - [24 Nov 2026 — Why Can't You Tickle Yourself?](episodes/2026-11-24-self-tickle/README.md)
 - [23 Nov 2026 — The Tiny Spring That Makes Popcorn Jump](episodes/2026-11-23-popcorn-spring/README.md)
