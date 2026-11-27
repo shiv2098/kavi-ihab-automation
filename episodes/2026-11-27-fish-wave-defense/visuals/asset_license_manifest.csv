@@ -1,0 +1,17 @@
+asset_id,filename,asset_type,creator_or_source,license_or_rights,status
+A01,scene_01.png,1080x1920 original vector keyframe,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A02,scene_02.png,1080x1920 original vector keyframe,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A03,scene_03.png,1080x1920 original vector keyframe,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A04,scene_04.png,1080x1920 original vector keyframe,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A05,scene_05.png,1080x1920 original vector keyframe,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A06,scene_06.png,1080x1920 original vector keyframe,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A07,scene_07.png,1080x1920 original vector keyframe,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A08,fish_wave_mechanism.svg,original scientific diagram,Kavi_ihab production code,Original SVG; no third-party media,Created
+A09,thumbnail_vertical_1080x1920.png,1080x1920 original thumbnail,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A10,storyboard_contact_sheet.png,original storyboard,Kavi_ihab production code,Original code-generated artwork; no third-party media,Created
+A11,original_underwater_ambience_sfx.wav,original sound design,Kavi_ihab production code,Procedurally synthesized; no third-party sample or music,Created
+A12,visual_preview_NO_NARRATION.mp4,animated 1080x1920 24fps visual-only video with original SFX,Kavi_ihab production code,Composed from original code-generated visuals and procedural SFX,Created; no narration
+A13,animated_motion_preview_540x960_12fps.mp4,smaller motion preview,Kavi_ihab production code,Composed from original code-generated visuals and procedural SFX,Created; no narration
+R01,Current Biology fish waves paper,scientific research,Doran et al. 2021,DOI link; source used for factual research only; no media reused,Research reference
+R02,Proceedings B predator attack locations paper,scientific research,Pacher et al. 2026,DOI link; source used for factual research only; no media reused,Research reference
+R03,Science Perspective deception in motion,scientific research,Sampaio and Couzin 2026,DOI link; source used for factual research only; no media reused,Research reference
